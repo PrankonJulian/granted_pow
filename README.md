@@ -1,4 +1,4 @@
-# Granted_Pow
+# Granted Pow
 Welcome to Sah Julian LLC
 
 Not elegant but
